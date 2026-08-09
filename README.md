@@ -50,10 +50,10 @@ I build things end-to-end , a polished UI, and often an ML model quietly doing t
 ### 🛠️ Tech Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,java,kotlin,dart&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,dart&theme=dark" alt="Languages"/>
 
 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
 
 **Backend & APIs**
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" alt="Backend"/>
@@ -62,29 +62,13 @@ I build things end-to-end , a polished UI, and often an ML model quietly doing t
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,swift,firebase&theme=dark" alt="Mobile"/>
 
 **AI / ML & Data Science**
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,r&theme=dark" alt="AI/ML"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" alt="AI/ML"/>
 
 **Databases & Cloud**
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,gcp&theme=dark" alt="Databases"/>
 
 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,postman,figma&theme=dark" alt="Tools"/>
-
----
-
-### 📌 Featured Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| **🤖 [AI Project Name](https://github.com/GH_USERNAME/repo)** | <img src="https://skillicons.dev/icons?i=py,pytorch,flask&theme=dark" height="28"/> | *Edit me — the problem it solves and the interesting ML part.* |
-| **🌐 [Full-Stack App Name](https://github.com/GH_USERNAME/repo)** | <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" height="28"/> | *Edit me — what it does and who it's for.* |
-| **📱 [Mobile App Name](https://github.com/GH_USERNAME/repo)** | <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" height="28"/> | *Edit me — the core feature, one line.* |
-
-<div align="center">
-
-*Tip: pin your best repos from your GitHub profile settings so they surface above this section too.*
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode, &theme=dark" alt="Tools"/>
 
 ---
 
