@@ -20,9 +20,9 @@
 # Vishwa Bharath Singh
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=39D0D8&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+Cse+w/s+in-+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+Cse+w/s+in-+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+Cse+w/s+in-+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora" alt="Typing SVG">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=39D0D8&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+Cse+w/s+in+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+Cse+w/s+in+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+Cse+w/s+in+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora" alt="Typing SVG">
 </picture>
 
 I build products end-to-end — API, interface, and usually a model doing the real work underneath. Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning, and building full-stack web and mobile projects alongside it.
