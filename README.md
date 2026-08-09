@@ -52,7 +52,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 ### Tech Stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,java,kotlin,dart&theme=dark" height="32" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,react,node.js&theme=dark" height="32" alt="Languages"/>
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" height="32" alt="Frontend"/>
@@ -64,13 +64,13 @@ I build products end-to-end — API, interface, and usually a model doing the re
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,swift,firebase&theme=dark" height="32" alt="Mobile"/>
 
 **AI / ML & Data Science**<br/>
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,r&theme=dark" height="32" alt="AI/ML"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" height="32" alt="AI/ML"/>
 
 **Databases & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,gcp&theme=dark" height="32" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws&theme=dark" height="32" alt="Databases"/>
 
 **Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,postman,figma&theme=dark" height="32" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode&theme=dark" height="32" alt="Tools"/>
 
 [![Fedora](https://img.shields.io/badge/OS-Fedora_Linux-0B57A4?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org)
 
