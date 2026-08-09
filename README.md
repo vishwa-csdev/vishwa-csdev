@@ -78,7 +78,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 
 ### GitHub Stats
 
-<div align="center"> <img src="https://raw.githubusercontent.com/GH_USERNAME/GH_USERNAME/main/metrics.svg" alt="GitHub metrics" width="100%"/> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/vishwa-csdev/vishwa-csdev/main/metrics.svg" alt="GitHub metrics" width="100%"/> </div>
 
 ### Contribution Graph
 
