@@ -80,12 +80,9 @@ I build products end-to-end — API, interface, and usually a model doing the re
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vishwa-csdev&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-csdev&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=vishwa-csdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishwa-csdev&theme=onedark" alt="Trophies"/>
 
 </div>
 
