@@ -31,10 +31,9 @@ I build products end-to-end — API, interface, and usually a model doing the re
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vishwa-bharath-singh-37552137b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-bharath-singh-37552137b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/silent_storm0126/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-39D0D8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vish-csdev.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwa.bharath.singh@gmail.com)
 
 </div>
 
