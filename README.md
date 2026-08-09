@@ -20,9 +20,9 @@
 # Vishwa Bharath Singh
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=39D0D8&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+-+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+-+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+-+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora" alt="Typing SVG">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=39D0D8&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech Cse w/s+-+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech Cse w/s+-+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech Cse w/s+-+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora" alt="Typing SVG">
 </picture>
 
 I build products end-to-end — API, interface, and usually a model doing the real work underneath. Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning, and building full-stack web and mobile projects alongside it.
@@ -33,7 +33,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-bharath-singh-37552137b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/silent_storm0126/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-39D0D8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vish-csdev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39D0D8?style=for-the-badge&logo=googlechrome&logoColor=orange)](https://vish-csdev.vercel.app/)
 
 </div>
 
@@ -43,7 +43,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 
 - **Building** — full-stack web and mobile products, with an ML model usually handling the core logic
 - **Learning** — deep learning, computer vision, large language models
-- **Studying** — B.Tech, Artificial Intelligence & Machine Learning
+- **Studying** — B.Tech Cse w/s Artificial Intelligence & Machine Learning
 - **Open to** — full-stack, mobile, or applied-AI collaborations
 - **Daily driver** — Fedora Linux
 
@@ -52,10 +52,10 @@ I build products end-to-end — API, interface, and usually a model doing the re
 ### Tech Stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,java,kotlin,dart&theme=dark" height="32" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,java&theme=dark" height="32" alt="Languages"/>
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" height="32" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" height="32" alt="Frontend"/>
 
 **Backend & APIs**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" height="32" alt="Backend"/>
@@ -64,13 +64,13 @@ I build products end-to-end — API, interface, and usually a model doing the re
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,swift,firebase&theme=dark" height="32" alt="Mobile"/>
 
 **AI / ML & Data Science**<br/>
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,r&theme=dark" height="32" alt="AI/ML"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" height="32" alt="AI/ML"/>
 
 **Databases & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,gcp&theme=dark" height="32" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp&theme=dark" height="32" alt="Databases"/>
 
 **Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,postman,figma&theme=dark" height="32" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,claude&theme=dark" height="32" alt="Tools"/>
 
 [![Fedora](https://img.shields.io/badge/OS-Fedora_Linux-0B57A4?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org)
 
