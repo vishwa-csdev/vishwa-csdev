@@ -52,7 +52,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 ### Tech Stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,c,react,node.js&theme=dark" height="32" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,react,Node.js&theme=dark" height="32" alt="Languages"/>
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" height="32" alt="Frontend"/>
@@ -61,7 +61,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" height="32" alt="Backend"/>
 
 **Mobile & App Development**<br/>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,swift,firebase&theme=dark" height="32" alt="Mobile"/>
+<img src="https://skillicons.dev/icons?i=kotlin,swift,firebase&theme=dark" height="32" alt="Mobile"/>
 
 **AI / ML & Data Science**<br/>
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" height="32" alt="AI/ML"/>
