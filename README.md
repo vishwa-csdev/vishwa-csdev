@@ -44,7 +44,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 <img src="https://skillicons.dev/icons?i=py,cpp,c,react,Node.js&theme=dark" height="32" alt="Languages"/>
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" height="32" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" height="32" alt="Frontend"/>
 
 **Backend & APIs**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,django,flask&theme=dark" height="32" alt="Backend"/>
