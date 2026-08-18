@@ -1,14 +1,3 @@
-<!--
-  CUSTOMIZE BEFORE PUBLISHING — find & replace these placeholders:
-    vishwa-csdev              → your GitHub username (appears in ~12 image URLs below)
-    Your Name                → your full name
-    your.email@example.com   → your email
-    your-linkedin / your-x-handle / your-leetcode / your-portfolio.dev → your real links
-
-  Everything else (tagline, "Currently" list, tech stack, project table) is plain
-  text or a table — edit it directly, no build step required.
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,50:6C63FF,100:39D0D8&height=210&section=header" width="100%"/>
@@ -59,7 +48,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" height="32" alt="Frontend"/>
 
 **Backend & APIs**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" height="32" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask&theme=dark" height="32" alt="Backend"/>
 
 **Mobile & App Development**<br/>
 <img src="https://skillicons.dev/icons?i=kotlin,swift,firebase&theme=dark" height="32" alt="Mobile"/>
@@ -68,7 +57,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" height="32" alt="AI/ML"/>
 
 **Databases & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws&theme=dark" height="32" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mongodb,aws&theme=dark" height="32" alt="Databases"/>
 
 **Tools & Platforms**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode&theme=dark" height="32" alt="Tools"/>
