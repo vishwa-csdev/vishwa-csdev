@@ -61,7 +61,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 **Tools & Platforms**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode&theme=dark" height="32" alt="Tools"/>
 
-[![Fedora](https://img.shields.io/badge/OS-Fedora_Linux-0B57A4?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org)
+![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)
 
 ---
 
