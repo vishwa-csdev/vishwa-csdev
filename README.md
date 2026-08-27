@@ -34,7 +34,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 - **Learning** — deep learning, computer vision, large language models
 - **Studying** — B.Tech, Artificial Intelligence & Machine Learning
 - **Open to** — full-stack, mobile, or applied-AI collaborations
-- **Daily driver** — Fedora Linux
+- **Daily driver** — CachyOs(Arch Linux Distro) Yes i use Arch btw xD
 
 ---
 
