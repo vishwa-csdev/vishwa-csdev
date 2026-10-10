@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;Applied+AI+and+ML;B.Tech+Cse+w/s+in+AI+and+ML;Builds+End+to+End,+Ships+on+Fedora" alt="Typing SVG">
 </picture>
 
-I build products end-to-end — API, interface, and usually a model doing the real work underneath. Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning, and building full-stack web and mobile projects alongside it.
+I build products end-to-end — API, interfaces etc. Currently pursuing a B.Tech in Artificial Intelligence & Machine Learning, and building full-stack web projects alongside it.
 
 </div>
 
@@ -30,8 +30,8 @@ I build products end-to-end — API, interface, and usually a model doing the re
 
 ### Currently
 
-- **Building** — full-stack web and mobile products, with an ML model usually handling the core logic
-- **Learning** — deep learning, computer vision, large language models
+- **Building** — full-stack web and mobile products
+- **Learning** — deep learning, computer vision, large language models, building desktop apps
 - **Studying** — B.Tech, Artificial Intelligence & Machine Learning
 - **Open to** — full-stack, mobile, or applied-AI collaborations
 - **Daily driver** — CachyOs(Arch Linux Distro) Yes i use Arch btw xD
@@ -49,9 +49,6 @@ I build products end-to-end — API, interface, and usually a model doing the re
 **Backend & APIs**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,django,flask&theme=dark" height="32" alt="Backend"/>
 
-**Mobile & App Development**<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,swift,firebase&theme=dark" height="32" alt="Mobile"/>
-
 **AI / ML & Data Science**<br/>
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" height="32" alt="AI/ML"/>
 
@@ -59,7 +56,7 @@ I build products end-to-end — API, interface, and usually a model doing the re
 <img src="https://skillicons.dev/icons?i=mongodb,aws&theme=dark" height="32" alt="Databases"/>
 
 **Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode&theme=dark" height="32" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,,docker,linux,vscode&theme=dark" height="32" alt="Tools"/>
 
 ![CachyOS](https://img.shields.io/badge/OS-CachyOS-0A8?style=for-the-badge&logo=cachyos&logoColor=fff)
 ---
