@@ -56,7 +56,7 @@ I build products end-to-end — API, interfaces etc. Currently pursuing a B.Tech
 <img src="https://skillicons.dev/icons?i=mongodb,aws&theme=dark" height="32" alt="Databases"/>
 
 **Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,,docker,linux,vscode&theme=dark" height="32" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" height="32" alt="Tools"/>
 
 ![CachyOS](https://img.shields.io/badge/OS-CachyOS-0A8?style=for-the-badge&logo=cachyos&logoColor=fff)
 ---
